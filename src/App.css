@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin-top: 90px;
+  position: relative;
+}
+
+.thala-button {
+  height: 56px;
+}
+
+.showImage {
+  margin-top: 40px;
+}
+
+.alert {
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
